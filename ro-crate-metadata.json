@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-11-16T09:58:35.464191",
+            "datePublished": "2024-11-21T07:19:12.826239",
             "hasPart": [
                 {
                     "@id": "pseudo-bulk_edgeR.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/pseudobulk-worflow-decoupler-edger",
-            "version": "0.1"
+            "version": "0.1.1"
         },
         {
             "@id": "#galaxy",
